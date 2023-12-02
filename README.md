@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>React Native and Advanced AWS Services.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br>
+<br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br>
+<br>🌱 **I’m currently learning:**  <br>NextJS, React Native and Advanced AWS Services.<br>
+<br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, AWS, and any general software development questions.<br><br>
 
 
 

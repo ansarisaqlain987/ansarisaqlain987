@@ -3,7 +3,8 @@
 <br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br>
 <br>🌱 **I’m currently learning:**  <br>NextJS, React Native and Advanced AWS Services.<br>
 <br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, AWS, and any general software development questions.<br>
-<br>:orange_book: **Socials:**  <br>[LinkedIn](https://www.linkedin.com/in/ansarisaqlain987/), [NPM](https://www.npmjs.com/~ansarisaqlain987)<br><br>
+<br>:orange_book: **Socials:** <br>[![LinkedIn](https://img.shields.io/badge/linkedin-%23007ACC.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansarisaqlain987/)
+[![NPM](https://img.shields.io/badge/npm-%23DD0031.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/settings/ansarisaqlain987/packages)<br><br>
 
 
 

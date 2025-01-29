@@ -51,8 +51,8 @@ With 6+ years of experience in the software industry, I specialize in building s
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ansarisaqlain987)
-- 📧 [Email](mailto:ansarisaqlain987@gmail.com)
-- 🌐 [Portfolio](https://www.ansarisaqlain.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230099ff.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansarisaqlain987/)
+[![Mail](https://img.shields.io/badge/mail-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:ansarisaqlain987@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23ffcc99.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.ansarisaqlain.com/)
 
 💡 *Always open to exciting opportunities and collaborations!*

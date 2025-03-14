@@ -36,11 +36,6 @@ With **6+ years** of experience in the software industry, I specialize in buildi
 
 - 🛠️ Created an [**NPM package**](https://www.npmjs.com/) to validate and parse environment variables. -->
 
-## 🎯 **Current Focus**
-
-- ⚡ Building a **Next.js-based AI application** with custom workflows using **ReactFlow**.
-- 🔐 Exploring authentication solutions like **Logto** and **Better Auth**.
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230099ff.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansarisaqlain987/)

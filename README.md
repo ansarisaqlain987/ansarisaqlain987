@@ -1,47 +1,56 @@
-# Hi there, I'm **Saqlain Ansari!** 👋
+# Hi there, I'm **Saqlain Ansari** 👋
 
-## 🚀 **Full Stack Developer | Software Architect | Tech Enthusiast**
+## 🚀 Full Stack Developer | Software Architect | AI-Forward Engineer
 
-With **6+ years** of experience in the software industry, I specialize in building **scalable, high-performance web applications**. I have worked extensively with modern web technologies, databases, and cloud services, contributing to multiple global projects.
+A systems-focused engineer with **7+ years** of experience designing and architecting production-ready applications end-to-end. I build scalable backend platforms, web and desktop products, and resilient APIs for teams that need reliable performance and fast iteration.
 
-## 🎨 **Tech Stack**
+## 💼 About Me
 
-### **Frontend** 🎨
+- Designed and delivered multiple systems from concept to launch, with a strong emphasis on architecture, scalability, and observability.
+- Built both **web and desktop applications** that support modern workflows and complex business logic.
+- Recently contributed to backend systems using **Go, Rust, and Python** while continuing to drive impact with **Node.js** and TypeScript.
+- Experienced with **Fiber**, **FastAPI**, **GraphQL**, microservices, event-driven architecture, and high-throughput distributed services.
+- Actively integrating **AI Agents** and **agentic AI workflows**, and using AI-powered tools like **GitHub Copilot**, **OpenCode**, and coding agents.
+- Running local inference with **MLX** to accelerate development experimentation and data-driven feature delivery.
 
-- 🎯 **React.js, Next.js**
+## 🧰 Tech Stack
+
+### Backend & APIs
+
+- 🏗️ **Node.js, NestJS, Fiber, FastAPI**
+- 🦀 **Rust** | 🐹 **Go** | 🐍 **Python**
+- 🌐 **GraphQL, REST, gRPC**
+- 🗃️ **PostgreSQL, MySQL, SQL Server, MongoDB, Redis**
+- 🧩 **Microservices, Domain-Driven Design, Event-Driven Architecture**
+
+### Frontend & Desktop
+
+- ⚛️ **React.js, Next.js**
 - 🟡 **TypeScript, JavaScript**
-- 🔄 **Redux, React Query**
 - 🎨 **Tailwind CSS, Styled Components**
+- 🖥️ Desktop app experience with modern cross-platform tooling
 
-### **Backend** 🔧
+### AI, DevTools & Infrastructure
 
-- 🏗️ **Node.js, NestJS, HonoJS**
-- 🌐 **GraphQL, REST APIs**
-- 🗃️ **Drizzle ORM, Knex**
-- 🏛️ **Microservices, Monolithic Architecture**
+- 🤖 **AI Agents, Agentic AI workflows, MLX local inference**
+- 🛠️ **GitHub Copilot, OpenCode, code automation agents**
+- ☁️ **AWS (S3, Lambda, EC2, Secret Manager)**
+- 🐳 **Docker**
+- 📡 **RabbitMQ, Kafka, Redis**
+- 🚀 **CI/CD, GitHub Actions, observability**
 
-### **Databases** 💾
+## 🔍 Current Focus
 
-- 🐘 **PostgreSQL, MySQL, SQL Server**
-- 🍃 **MongoDB, Redis, Elasticsearch**
-
-### **DevOps & Cloud** ☁️
-
-- ☁️ **AWS (EC2, S3, Lambda, Secret Manager)**
-- 🐳 **Docker, Coolify**
-- 📡 **RabbitMQ, Kafka**
-- 🚀 **CI/CD, GitHub Actions**
-
-<!-- ## 🔥 **Open Source & Contributions**
-
-- 🛠️ Created an [**NPM package**](https://www.npmjs.com/) to validate and parse environment variables. -->
+- Building scalable backend architecture that supports high-availability systems.
+- Integrating AI-driven workflows into engineering and product delivery.
+- Expanding expertise in **Rust** and **Go** for backend performance and safety.
+- Developing APIs and services that accelerate product velocity and reliability.
+- Evaluating local inference tooling and ML pipelines to bring smarter functionality to apps.
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230099ff.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansarisaqlain987/)
-[![Mail](https://img.shields.io/badge/mail-%2340bf80.svg?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:ansarisaqlain987@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-%23ffcc99.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.ansarisaqlain.com/)
+[![Email](https://img.shields.io/badge/email-%2340bf80.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ansarisaqlain987@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23ffcc99.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ansarisaqlain.com/)
 
-💡 *Always open to exciting opportunities and collaborations!*
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansarisaqlain987&show_icons=true&locale=en&layout=compact" alt="ansarisaqlain987" /></p>
+> Passionate about building systems that scale, empowering teams, and adopting AI to make development smarter.
